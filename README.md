@@ -1,16 +1,16 @@
-# Exercise:  .
+# Exercise:  Find the largest word.
 
-
+Return the length of the longest word in the provided sentence.
 
 **Example** 
 
-
+findLongestWord("I wll ne always here")
 
 Print your solution to the console.
 
  **Expected Output**
 
-
+findLongestWord("I wll ne always here") -> "always"
 
 
 I have written 3 solutions by using 3 different approaches on each branch. Enoy reading them!
