@@ -4,13 +4,13 @@ Return the length of the longest word in the provided sentence.
 
 **Example** 
 
-findLongestWord("I wll ne always here")
+findLongestWord("I will ne always here for you")
 
 Print your solution to the console.
 
  **Expected Output**
 
-findLongestWord("I wll ne always here") -> "always"
+findLongestWord("I will ne always here for you") -> "always"
 
 
 I have written 3 solutions by using 3 different approaches on each branch. Enoy reading them!
