@@ -3,10 +3,8 @@
 
 ![snapshot](./reduce.png)
 
-Step 1.
+Step 1. Use split(" ") to split every sentence of the string
 
-Step 2. 
+Step 2. sort it depending their length with the reduce() method
 
-Step 3. 
-
-Step 4. 
+Step 3. Print out the one with the largest length
