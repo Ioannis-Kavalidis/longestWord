@@ -1,7 +1,7 @@
 # 1st solution on the "longest word" exercise
 
 
-![snapshot](./for_loop.png)
+![snapshot](for_loop.png)
 
 Step 1. Create a variable result to store num
 
